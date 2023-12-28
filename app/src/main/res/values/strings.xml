@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NotificationAPP</string>
+    <string name="default_notification">fcm_default_channel</string>
+</resources>
